@@ -8,6 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Connor Bonham's Live links
 - Repository: https://github.com/ConBonAon/GISFinal2023
+- Storymap: https://conbonaon.github.io/GISFinal2023/#1
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
