@@ -6,6 +6,9 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 - Leaflet Map https://mdgaines.github.io/leaflet_storymap_2023/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1-UE9s5xWble2rJmw-B86TtEGK2axyLQrLvXSB0eIU9Q/edit#gid=252186071
 
+## Connor Bonham's Live links
+- Repository: https://github.com/ConBonAon/GISFinal2023
+
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
 
